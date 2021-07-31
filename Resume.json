@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "Aashish Kumar Moond",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88239020?s=400&u=56c12e928a6be176345a4b5e61df26e82cb089eb&v=4",
+		"email": "2020kucp1059@iiitkota.ac.in",
+		"phone": "6367953181",
+		"summary": "I am a student of 1st year in IIIT KOTA. Currently I am persuing my B.Tech degree in Computer Science engineering branch",
+		"location": {
+			"address": "104,moond bhawan, Majhau",
+			"postalCode": "333305",
+			"city": "Gudha Gorji",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "@aashish_moond",
+				"url": "https://twitter.com/aashish_moond"
+			},
+			{
+				"network": "Github",
+				"username": "Moondaashish",
+				"url": "https://github.com/Moondaashish/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/aashish-moond-1b767a200/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Aashish@moond",
+				"url": "https://www.instagram.com/chaudharyjatjat/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "2024-07-12",
+		"gpa": "7.68",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton", "Cricket"]
+	}]
+}
